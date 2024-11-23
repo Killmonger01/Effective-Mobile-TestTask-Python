@@ -1,6 +1,6 @@
 # 📚 **Library CLI Application**
 
-![Library Illustration](https://via.placeholder.com/800x300.png?text=Library+CLI+Application)
+![Library Illustration](https://via.placeholder.com/800x300.png?text=Manage+Your+Library+Easily)
 
 Добро пожаловать в приложение для управления библиотекой книг!  
 Простой и удобный инструмент для учёта книг с интуитивным интерфейсом.
@@ -22,4 +22,5 @@
 1. Убедитесь, что у вас установлен Python 3.8+ 🐍.  
 2. Склонируйте репозиторий:  
    ```bash
-   git clone https://github.com/your-repo/library-cli.git
+   git clone git@github.com:Killmonger01/Effective-Mobile-TestTask-Python.git
+
