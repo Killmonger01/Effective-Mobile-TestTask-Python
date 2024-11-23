@@ -1,6 +1,6 @@
 # 📚 **Library CLI Application**
 
-![Library Illustration](https://via.placeholder.com/800x300.png?text=Manage+Your+Library+Easily)
+![Library Illustration](https://royaldesign.ua/file/495/cc/tR/xt/131126201302-the-bodleian-library-3-horizontal-large-gallery1_thumbnail.sPv9.jpg)
 
 Добро пожаловать в приложение для управления библиотекой книг!  
 Простой и удобный инструмент для учёта книг с интуитивным интерфейсом.
