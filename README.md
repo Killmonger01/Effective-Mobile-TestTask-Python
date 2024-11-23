@@ -24,3 +24,10 @@
    ```bash
    git clone git@github.com:Killmonger01/Effective-Mobile-TestTask-Python.git
 
+---
+
+## 💻 ##Запуск##
+Запустите в директерии проекта файл main.py
+```bash
+python main.py
+
